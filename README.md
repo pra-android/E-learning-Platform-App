@@ -1,6 +1,7 @@
 # E-Learning Platform App
 
-### A Flutter-based E-Learning Application that allows users to learn courses (videos, PDFs), while admins can add and manage course content. Built with Firebase backend and BLoC state management for scalability.
+
+#### A Flutter-based E-Learning Application that allows users to learn courses (videos, PDFs), while admins can add and manage course content. Built with Firebase backend and BLoC state management for scalability.
 
 
 ### Features
